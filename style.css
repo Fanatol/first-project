@@ -13,7 +13,7 @@ p {
     width: 100%;
     display: flex;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 300px;
+    font-size: 200px;
     justify-content: center;
     align-items: center;
 }
